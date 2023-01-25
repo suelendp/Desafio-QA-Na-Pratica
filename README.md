@@ -1,8 +1,8 @@
 # 💻 Desafio-QA-Na-Pratica 
-## Realizado durante o Bootcamp da GFT em pareceria com a DIO - GFT Quality Assurance Para Mulheres
+## Realizado durante o Bootcamp da GFT em parceria com a DIO - GFT Quality Assurance Para Mulheres
 
 ## 📝 Descrição do Desafio:
-### 📌 Documentação deverá ser anexada em PDF:
+### 📌 Documentação que deverá ser anexada em PDF:
  - **Um plano de fluxo de trabalho de desenvolvido e do ciclo de vida do bug conforme explicado.**
  - **Um documento contendo no mínimo 2 User Stories pensadas e criadas por você em formato PDF.**
  - **Documentos de teste gerados no seu processo de estudo:**
